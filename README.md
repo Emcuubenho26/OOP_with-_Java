@@ -1,2 +1,2 @@
 # OOP_with-_Java
-Here are some basic OOP application  
+Here are some basic OOP applications
